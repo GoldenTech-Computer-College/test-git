@@ -8,4 +8,6 @@ class Person:
         return f"Happy birthday {self.name}! You are now {self.age} years old."
 
     def greet(self):
-        return f"Hello, my name is {self.name}and i am {self.age} years old"     
+        return f"Hello, my name is {self.name} and I am {self.age} years old."
+
+
